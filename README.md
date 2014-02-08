@@ -37,10 +37,14 @@
 * Topic - 撰寫 APP 開發企劃書
 -->
 
+## 深入淺出 iPhone 與 iPad 開發(第二版)-系列筆記
+* Ch02 - IOS 應用程式設計模式
+
 ## 參考資源
 * 在我學習 Objective-C 時，主要的學習依據以及手上所觀看的書籍為 [精通 Objective-C 程式設計 (第五版)
 ](http://www.books.com.tw/products/0010574124)。
 
+* 深入淺出 iPhone 與 iPad 開發 第二版
 
 ## 學習資源列表
 * [Programming with Objective-C(PDF)](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/ProgrammingWithObjectiveC.pdf)
